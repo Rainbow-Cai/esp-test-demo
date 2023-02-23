@@ -9,6 +9,7 @@
 
 
  git branch -M master                          // 选择分支
+
 git clone  https://github.com/Rainbow-Cai/esp-test-demo.git
 
 mkdir tools                  //创建要提交的文件夹
