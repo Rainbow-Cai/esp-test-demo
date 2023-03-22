@@ -1,0 +1,1 @@
+void gattc_demo(void);
