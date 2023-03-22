@@ -1,0 +1,24 @@
+# Espressif ESP32 Partition Table
+# Name,     Type, SubType,  Offset,     Size,       Flags
+nvs,        data, nvs,      0x12000,     0x4000,
+nvs_backup, data, nvs,             ,     0x4000,
+#infromation in this erea used to choose image to load(ota_0, ota_1 etc)
+otadata,    data, ota,              ,     0x2000,     encrypted
+phy_init,   data, phy,              ,     0x1000,     encrypted
+#first firmware copy
+app_0,      app,  ota_0,            ,    0x190000,
+#second firmware copy
+app_1,      app,  ota_1,        ,       0x190000,
+#stm32 boot data area type 64, subtype 0 - stm32 bootloader
+#stm32Boot,  64,  1,       ,                 4K,  
+#stm32 fw data area type 64, subtype 1 - stm32 firmware
+stm32FW,     64,  1,       ,             64K,  encrypted
+#user ssl certs
+server_cert_pem,  64,  2,       ,                 4K, encrypted
+client_cert_pem,  64,  2,       ,                 4K,  encrypted
+client_key_pem,  64,  2,       ,                 4K,  encrypted
+client_psk_pem,  64,  2,       ,                 4K, encrypted
+#web pages     
+oflData,     64,  1,       ,             64K,    
+preControlData,     64,  1,       ,             4K,        
+storage,    data, spiffs,       ,       176K
