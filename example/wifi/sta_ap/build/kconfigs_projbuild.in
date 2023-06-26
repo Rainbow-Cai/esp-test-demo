@@ -1,0 +1,6 @@
+source "E:/esp/esp-idf-v4.4.1/components/app_update/Kconfig.projbuild"
+source "E:/esp/esp-idf-v4.4.1/components/bootloader/Kconfig.projbuild"
+source "E:/esp/esp-idf-v4.4.1/components/esp_rom/Kconfig.projbuild"
+source "E:/esp/esp-idf-v4.4.1/components/esptool_py/Kconfig.projbuild"
+source "E:/esp/esp-idf-v4.4.1/components/partition_table/Kconfig.projbuild"
+source "E:/esp/idf-simple-demo/example/wifi/sta_ap/main/Kconfig.projbuild"

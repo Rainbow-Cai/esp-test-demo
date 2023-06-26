@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "E:/esp/esp-idf-v4.4.3/components/bootloader/subproject",
+    "build_dir":          "E:/esp/idf-simple-demo/example/peripherals/touch_pad_interrupt_test/build/bootloader",
+    "config_file":        "E:/esp/idf-simple-demo/example/peripherals/touch_pad_interrupt_test/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.3",
+    "target":             "esp32s3",
+    "rev":                "",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32s3-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "E:/esp/esp-idf-v4.4.3/components/efuse/Kconfig;E:/esp/esp-idf-v4.4.3/components/esp32s3/Kconfig;E:/esp/esp-idf-v4.4.3/components/esp_common/Kconfig;E:/esp/esp-idf-v4.4.3/components/esp_hw_support/Kconfig;E:/esp/esp-idf-v4.4.3/components/esp_system/Kconfig;E:/esp/esp-idf-v4.4.3/components/freertos/Kconfig;E:/esp/esp-idf-v4.4.3/components/hal/Kconfig;E:/esp/esp-idf-v4.4.3/components/log/Kconfig;E:/esp/esp-idf-v4.4.3/components/newlib/Kconfig;E:/esp/esp-idf-v4.4.3/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "E:/esp/esp-idf-v4.4.3/components/bootloader/Kconfig.projbuild;E:/esp/esp-idf-v4.4.3/components/esp_rom/Kconfig.projbuild;E:/esp/esp-idf-v4.4.3/components/esptool_py/Kconfig.projbuild;E:/esp/esp-idf-v4.4.3/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32s3", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "E:/esp/esp-idf-v4.4.3/components/bootloader", "E:/esp/esp-idf-v4.4.3/components/bootloader_support", "E:/esp/esp-idf-v4.4.3/components/efuse", "E:/esp/esp-idf-v4.4.3/components/esp32s3", "E:/esp/esp-idf-v4.4.3/components/esp_common", "E:/esp/esp-idf-v4.4.3/components/esp_hw_support", "E:/esp/esp-idf-v4.4.3/components/esp_rom", "E:/esp/esp-idf-v4.4.3/components/esp_system", "E:/esp/esp-idf-v4.4.3/components/esptool_py", "E:/esp/esp-idf-v4.4.3/components/freertos", "E:/esp/esp-idf-v4.4.3/components/hal", "E:/esp/esp-idf-v4.4.3/components/log", "E:/esp/esp-idf-v4.4.3/components/bootloader/subproject/main", "E:/esp/esp-idf-v4.4.3/components/bootloader/subproject/components/micro-ecc", "E:/esp/esp-idf-v4.4.3/components/newlib", "E:/esp/esp-idf-v4.4.3/components/partition_table", "E:/esp/esp-idf-v4.4.3/components/soc", "E:/esp/esp-idf-v4.4.3/components/spi_flash", "E:/esp/esp-idf-v4.4.3/components/xtensa", "" ]
+}
