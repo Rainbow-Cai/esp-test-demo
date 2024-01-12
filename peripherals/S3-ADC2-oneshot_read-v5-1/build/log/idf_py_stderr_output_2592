@@ -1,0 +1,31 @@
+[0;33m--- WARNING: GDB cannot open serial ports accessed as COMx[0m
+[0;33m--- Using \\.\COM4 instead...[0m
+[0;33m--- esp-idf-monitor 1.3.4 on \\.\COM4 115200 ---[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H ---[0m
+[0;33m0x40375244: call_start_cpu1 at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/esp_system/port/cpu_start.c:154
+[0m
+[0;33m0x42009b86: task_wdt_timeout_handling at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x42009d32: task_wdt_isr at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40376cc1: _xt_lowint1 at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1226
+[0m
+[0;33m0x42015be4: app_main at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/examples/peripherals/adc/S3-ADC2-oneshot_read/main/oneshot_read_main.c:41
+[0m
+[0;33m0x42016f63: main_task at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/freertos/app_startup.c:208 (discriminator 13)
+[0m
+[0;33m0x4037bf25: vPortTaskWrapper at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0;33m0x42009b86: task_wdt_timeout_handling at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/esp_system/task_wdt/task_wdt.c:461 (discriminator 3)
+[0m
+[0;33m0x42009d32: task_wdt_isr at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/esp_system/task_wdt/task_wdt.c:585
+[0m
+[0;33m0x40376cc1: _xt_lowint1 at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/xtensa_vectors.S:1226
+[0m
+[0;33m0x42015be4: app_main at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/examples/peripherals/adc/S3-ADC2-oneshot_read/main/oneshot_read_main.c:41
+[0m
+[0;33m0x42016f63: main_task at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/freertos/app_startup.c:208 (discriminator 13)
+[0m
+[0;33m0x4037bf25: vPortTaskWrapper at E:/esp/Espressif/frameworks/esp-idf-v5.1/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:162
+[0m
+[0m

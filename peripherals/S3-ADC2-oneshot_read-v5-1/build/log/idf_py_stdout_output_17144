@@ -1,0 +1,87 @@
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0x8 (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+Octal Flash Mode Enabled
+For OPI Flash, Use Default Flash Boot Mode
+mode:SLOW_RD, clock div:1
+load:0x3fce3818,len:0x16e0
+load:0x403c9700,len:0x4
+load:0x403c9704,len:0xc00
+load:0x403cc700,len:0x2eb0
+entry 0x403c9908
+[0;32mI (33) boot: ESP-IDF v5.1 2nd stage bootloader[0m
+[0;32mI (33) boot: compile time Jan 12 2024 10:53:32[0m
+[0;32mI (33) boot: Multicore bootloader[0m
+[0;32mI (36) boot: chip revision: v0.1[0m
+[0;32mI (40) boot.esp32s3: Boot SPI Speed : 80MHz[0m
+[0;32mI (45) boot.esp32s3: SPI Mode       : SLOW READ[0m
+[0;32mI (50) boot.esp32s3: SPI Flash Size : 2MB[0m
+[0;32mI (55) boot: Enabling RNG early entropy source...[0m
+[0;32mI (60) boot: Partition Table:[0m
+[0;32mI (64) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (71) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (79) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (86) boot:  2 factory          factory app      00 00 00010000 00100000[0m
+[0;32mI (94) boot: End of partition table[0m
+[0;32mI (98) esp_image: segment 0: paddr=00010020 vaddr=3c020020 size=0af94h ( 44948) map[0m
+[0;32mI (117) esp_image: segment 1: paddr=0001afbc vaddr=3fc91400 size=02898h ( 10392) load[0m
+[0;32mI (120) esp_image: segment 2: paddr=0001d85c vaddr=40374000 size=027bch ( 10172) load[0m
+[0;32mI (126) esp_image: segment 3: paddr=00020020 vaddr=42000020 size=19d24h (105764) map[0m
+[0;32mI (157) esp_image: segment 4: paddr=00039d4c vaddr=403767bc size=0aba4h ( 43940) load[0m
+[0;32mI (175) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (175) boot: Disabling RNG early entropy source...[0m
+[0;32mI (186) cpu_start: Multicore app[0m
+[0;32mI (187) cpu_start: Pro cpu up.[0m
+[0;32mI (187) cpu_start: Starting app cpu, entry point is 0x4037524c[0m
+[0;32mI (0) cpu_start: App cpu up.[0m
+[0;32mI (205) cpu_start: Pro cpu start user code[0m
+[0;32mI (205) cpu_start: cpu freq: 160000000 Hz[0m
+[0;32mI (205) cpu_start: Application information:[0m
+[0;32mI (208) cpu_start: Project name:     oneshot_read[0m
+[0;32mI (213) cpu_start: App version:      v5.1[0m
+[0;32mI (218) cpu_start: Compile time:     Jan 12 2024 10:53:12[0m
+[0;32mI (224) cpu_start: ELF file SHA256:  1d5b78d726096b59...[0m
+[0;32mI (230) cpu_start: ESP-IDF:          v5.1[0m
+[0;32mI (234) cpu_start: Min chip rev:     v0.0[0m
+[0;32mI (239) cpu_start: Max chip rev:     v0.99 [0m
+[0;32mI (244) cpu_start: Chip rev:         v0.1[0m
+[0;32mI (249) heap_init: Initializing. RAM available for dynamic allocation:[0m
+[0;32mI (256) heap_init: At 3FC945D0 len 00055140 (340 KiB): DRAM[0m
+[0;32mI (262) heap_init: At 3FCE9710 len 00005724 (21 KiB): STACK/DRAM[0m
+[0;32mI (269) heap_init: At 3FCF0000 len 00008000 (32 KiB): DRAM[0m
+[0;32mI (275) heap_init: At 600FE010 len 00001FF0 (7 KiB): RTCRAM[0m
+[0;33mW (282) spi_flash: Octal flash chip is using but dio mode is selected, will automatically swich to Octal mode[0m
+[0;32mI (292) spi_flash: detected chip: mxic (opi)[0m
+[0;32mI (297) spi_flash: flash io: opi_str[0m
+[0;33mW (301) spi_flash: Detected size(32768k) larger than the size in the binary image header(2048k). Using the size in the binary image header.[0m
+[0;32mI (315) sleep: Configure to isolate all GPIO pins in sleep state[0m
+[0;32mI (321) sleep: Enable automatic switching of GPIO sleep configuration[0m
+[0;32mI (328) app_start: Starting scheduler on CPU0[0m
+[0;32mI (333) app_start: Starting scheduler on CPU1[0m
+[0;32mI (333) main_task: Started on CPU0[0m
+[0;32mI (343) main_task: Calling app_main()[0m
+[0;32mI (343) EXAMPLE: calibration scheme version is Curve Fitting[0m
+[0;32mI (353) EXAMPLE: Calibration Success[0m
+[0;32mI (353) EXAMPLE: ADC2 Channel[1] Raw Data: 0[0m
+[0;32mI (363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 0 mV[0m
+[0;32mI (1363) EXAMPLE: ADC2 Channel[1] Raw Data: 0[0m
+[0;32mI (1363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 0 mV[0m
+[0;32mI (2363) EXAMPLE: ADC2 Channel[1] Raw Data: 0[0m
+[0;32mI (2363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 0 mV[0m
+[0;32mI (3363) EXAMPLE: ADC2 Channel[1] Raw Data: 0[0m
+[0;32mI (3363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 0 mV[0m
+[0;32mI (4363) EXAMPLE: ADC2 Channel[1] Raw Data: 0[0m
+[0;32mI (4363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 0 mV[0m
+[0;32mI (5363) EXAMPLE: ADC2 Channel[1] Raw Data: 637[0m
+[0;32mI (5363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 541 mV[0m
+[0;32mI (6363) EXAMPLE: ADC2 Channel[1] Raw Data: 791[0m
+[0;32mI (6363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 668 mV[0m
+[0;32mI (7363) EXAMPLE: ADC2 Channel[1] Raw Data: 4095[0m
+[0;32mI (7363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 3082 mV[0m
+[0;32mI (8363) EXAMPLE: ADC2 Channel[1] Raw Data: 4095[0m
+[0;32mI (8363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 3082 mV[0m
+[0;32mI (9363) EXAMPLE: ADC2 Channel[1] Raw Data: 4095[0m
+[0;32mI (9363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 3082 mV[0m
+[0;32mI (10363) EXAMPLE: ADC2 Channel[1] Raw Data: 4095[0m
+[0;32mI (10363) EXAMPLE: ADC2 Channel[1] Cali Voltage: 3082 mV[0m
