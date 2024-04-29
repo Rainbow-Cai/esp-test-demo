@@ -1,0 +1,205 @@
+{
+    "id": 10,
+    "ver": 1.0001,
+    "name": 150,
+    "stg": [
+        {
+            "stp": [
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 187,
+                                "info": [
+                                    6,
+                                    179
+                                ],
+                                "icon": [
+                                    "slow_cooker_90",
+                                    "slow_cooker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "x1",
+                                "action": "start",
+                                "usage": 1
+                            }
+                        }
+                    ],
+                    "name": 172
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 82,
+                                "intensity": 1,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "3600",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        }
+                    ],
+                    "name": 197
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 97,
+                                "intensity": 1,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "(x0-3600-2700-((x1-x0)/6))*0.7",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        }
+                    ],
+                    "name": 198
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 70,
+                                "intensity": 1,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "x1+((x1-x0)/6)-x0",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        }
+                    ],
+                    "name": 199
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 97,
+                                "intensity": 1,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "(x0-3600-2700-((x1-x0)/6))*0.3",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        }
+                    ],
+                    "name": 200
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 99,
+                                "intensity": 1,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "2700",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 0
+                            }
+                        }
+                    ],
+                    "name": 201
+                },
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 187,
+                                "info": [
+                                    16
+                                ],
+                                "icon": [
+                                    "slow_cooker_90",
+                                    "slow_cooker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "up_from": 0,
+                                "action": "start",
+                                "usage": 4
+                            }
+                        },
+                        {
+                            "heater": {
+                                "temp_sp": 70,
+                                "intensity": 1,
+                                "feedback": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "user": 2
+                            }
+                        }
+                    ],
+                    "name": 17
+                }
+            ],
+            "name": 232
+        }
+    ]
+}

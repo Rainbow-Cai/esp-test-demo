@@ -1,0 +1,95 @@
+{
+    "base_version": [
+        "9",
+        "0"
+    ],
+    "version_path": [
+        "."
+    ],
+    "publish_path": [
+        ".",
+        "builds",
+        "debug"
+    ],
+    "git_strategy": "AUTO_TAGS",
+    "tag_prefix": "ver_",
+    "jobs": [
+        {
+            "brand": "Breville",
+            "model": "BMC800",
+            "voltage": "120",
+            "package_type": "OTA",
+            "model_type": "120V",
+            "subdirectories": true,
+            "manifest": true,
+            "files": [
+                {
+                    "file_name": "BOV950.out",
+                    "next_version": "",
+                    "type": "app",
+                    "type_code": "APP",
+                    "extension": "bin",
+                    "date": "",
+                    "file_location": [
+                        ".",
+                        "Project",
+                        "Debug",
+                        "Exe"
+                    ]
+                },
+
+                {
+                    "type": "resource",
+                    "type_code": "RES",
+                    "extension": "bin",
+                    "file_location": [
+                        "C:/",
+                        "OneDrive",
+                        "Breville",
+                        "Bob the Builder - Documents",
+                        "Jenkins",
+                        "bmc800",
+                        "RES"
+                    ]
+                }
+            ]
+        },
+        {
+            "brand": "Breville",
+            "model": "BMC800",
+            "voltage": "240",
+            "package_type": "OTA",
+            "model_type": "240V",
+            "files": [
+                {
+                    "input_file_name": "BMC800_240_WIFIAPP_2.1.0_0x05FCB90F_200504.bin",
+                    "version": ["m", "n", "p"],
+                    "type": "comm_mcu",
+                    "type_code": "WIFIAPP",
+                    "extension": "bin",
+                    "file_location": [
+                        ".",
+                        "Project",
+                        "Debug",
+                        "Exe"
+                    ]
+                },
+                {
+                    "input_file_name": "BMC800_120_RES_0.6.1_0x8B292186_200207.bin",
+                    "type": "resource",
+                    "type_code": "RES",
+                    "extension": "bin",
+                    "file_location": [
+                        "C:/",
+                        "OneDrive",
+                        "Breville",
+                        "Bob the Builder - Documents",
+                        "Jenkins",
+                        "bmc800",
+                        "RES"
+                    ]
+                }
+            ]
+        }
+    ]
+}

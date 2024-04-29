@@ -1,0 +1,120 @@
+{
+    "id": 25,
+    "ver": 1.0001,
+    "name": 236,
+    "stg": [
+        {
+            "stp": [
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 195,
+                                "info": [
+                                    209
+                                ],
+                                "icon": [
+                                    "yogurt_maker_90",
+                                    "yogurt_maker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "x1",
+                                "action": "reset",
+                                "usage": 1
+                            }
+                        },
+                        {
+                            "heater": {
+                                "temp_sp": "x0",
+                                "intensity": 1,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "wait": {
+                                "heater": 0
+                            }
+                        },
+                        {
+                            "ui": {
+                                "title": 195,
+                                "info": [
+                                    210
+                                ],
+                                "icon": [
+                                    "yogurt_maker_90",
+                                    "yogurt_maker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "x1",
+                                "action": "start",
+                                "usage": 1
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 0
+                            }
+                        }
+                    ],
+                    "name": 175
+                },
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 195,
+                                "info": [
+                                    211
+                                ],
+                                "icon": [
+                                    "yogurt_maker_90",
+                                    "yogurt_maker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "heater": {
+                                "temp_sp": 42,
+                                "intensity": 0,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "wait": {
+                                "heater": 0
+                            }
+                        },
+                        {
+                            "ui": {
+                                "title": 195,
+                                "info": [
+                                    212
+                                ],
+                                "icon": [
+                                    "yogurt_maker_90",
+                                    "yogurt_maker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "wait": {
+                                "user": 2
+                            }
+                        }
+                    ],
+                    "name": 176
+                }
+            ],
+            "name": 190
+        }
+    ]
+}

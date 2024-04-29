@@ -1,0 +1,1506 @@
+{
+    "ver": 1.0001,
+    "data": [
+        {
+            "id": 0,
+            "ing_id": 0,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "feedback": 0,
+            "temp_sp": 163.0,
+            "intensity": 2
+        },
+        {
+            "id": 1,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 1,
+            "feedback": 1,
+            "temp_sp": 96.0,
+            "intensity": 1
+        },
+        {
+            "id": 2,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2
+        },
+        {
+            "id": 3,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "feedback": 0,
+            "temp_sp": 204.5,
+            "intensity": 2
+        },
+        {
+            "id": 4,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 0,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 40.0
+        },
+        {
+            "id": 5,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 1,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 45.0
+        },
+        {
+            "id": 6,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 49.0
+        },
+        {
+            "id": 7,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 3,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 53.0
+        },
+        {
+            "id": 8,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 4,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 57.0
+        },
+        {
+            "id": 9,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 5,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 60.0
+        },
+        {
+            "id": 10,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 4,
+            "feedback": 0,
+            "temp_sp": 250.0,
+            "intensity": 2
+        },
+        {
+            "id": 11,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 1,
+            "feedback": 1,
+            "temp_sp": 47.0,
+            "intensity": 2
+        },
+        {
+            "id": 12,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 0,
+            "feedback": 1,
+            "temp_sp": 48.0,
+            "intensity": 2
+        },
+        {
+            "id": 13,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 2,
+            "feedback": 1,
+            "temp_sp": 51.0,
+            "intensity": 2
+        },
+        {
+            "id": 14,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 3,
+            "feedback": 1,
+            "temp_sp": 54.0,
+            "intensity": 2
+        },
+        {
+            "id": 15,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 4,
+            "feedback": 1,
+            "temp_sp": 58.0,
+            "intensity": 2
+        },
+        {
+            "id": 16,
+            "ing_id": 1,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 5,
+            "feedback": 1,
+            "temp_sp": 61.0,
+            "intensity": 2
+        },
+        {
+            "id": 17,
+            "ing_id": 2,
+            "cat_id": [
+                2
+            ],
+            "tech_id": 2,
+            "feedback": 0,
+            "temp_sp": 143.5,
+            "intensity": 2
+        },
+        {
+            "id": 18,
+            "ing_id": 2,
+            "cat_id": [
+                2
+            ],
+            "tech_id": 6,
+            "feedback": 0,
+            "temp_sp": 96.0,
+            "intensity": 2
+        },
+        {
+            "id": 19,
+            "ing_id": 2,
+            "cat_id": [
+                2
+            ],
+            "tech_id": 7,
+            "feedback": 0,
+            "temp_sp": 79.5,
+            "intensity": 2
+        },
+        {
+            "id": 20,
+            "ing_id": 3,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 1,
+            "feedback": 1,
+            "temp_sp": 96.0,
+            "intensity": 1
+        },
+        {
+            "id": 21,
+            "ing_id": 4,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 8,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 22,
+            "ing_id": 4,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 176.5,
+            "intensity": 2
+        },
+        {
+            "id": 23,
+            "ing_id": 5,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 24,
+            "ing_id": 5,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 10,
+            "feedback": 1,
+            "temp_sp": 88.0,
+            "intensity": 2
+        },
+        {
+            "id": 25,
+            "ing_id": 5,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2
+        },
+        {
+            "id": 26,
+            "ing_id": 5,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 27,
+            "ing_id": 5,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 4,
+            "feedback": 0,
+            "temp_sp": 250.0,
+            "intensity": 2
+        },
+        {
+            "id": 28,
+            "ing_id": 5,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "feedback": 0,
+            "temp_sp": 204.5,
+            "intensity": 2
+        },
+        {
+            "id": 29,
+            "ing_id": 5,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "feedback": 1,
+            "temp_sp": 65.5,
+            "intensity": 2
+        },
+        {
+            "id": 30,
+            "ing_id": 6,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 149.0,
+            "intensity": 2
+        },
+        {
+            "id": 31,
+            "ing_id": 7,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 32,
+            "ing_id": 7,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2
+        },
+        {
+            "id": 33,
+            "ing_id": 7,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 34,
+            "ing_id": 7,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "feedback": 0,
+            "temp_sp": 204.5,
+            "intensity": 2,
+            "done_temp": 62.0
+        },
+        {
+            "id": 35,
+            "ing_id": 7,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 4,
+            "feedback": 0,
+            "temp_sp": 250.0,
+            "intensity": 2
+        },
+        {
+            "id": 36,
+            "ing_id": 8,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 37,
+            "ing_id": 9,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 7,
+            "feedback": 0,
+            "temp_sp": 45.0,
+            "intensity": 1
+        },
+        {
+            "id": 38,
+            "ing_id": 10,
+            "cat_id": [
+                4
+            ],
+            "tech_id": 12,
+            "feedback": 1,
+            "temp_sp": 93.5,
+            "intensity": 1
+        },
+        {
+            "id": 39,
+            "ing_id": 10,
+            "cat_id": [
+                4
+            ],
+            "tech_id": 13,
+            "feedback": 1,
+            "temp_sp": 93.5,
+            "intensity": 1
+        },
+        {
+            "id": 40,
+            "ing_id": 11,
+            "cat_id": [
+                2
+            ],
+            "tech_id": 14,
+            "feedback": 1,
+            "temp_sp": 70.0,
+            "intensity": 2
+        },
+        {
+            "id": 41,
+            "ing_id": 11,
+            "cat_id": [
+                2
+            ],
+            "tech_id": 15,
+            "feedback": 1,
+            "temp_sp": 83.5,
+            "intensity": 1
+        },
+        {
+            "id": 42,
+            "ing_id": 12,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 0,
+            "feedback": 0,
+            "temp_sp": 176.5,
+            "intensity": 1
+        },
+        {
+            "id": 43,
+            "ing_id": 13,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 16,
+            "feedback": 1,
+            "temp_sp": 83.0,
+            "intensity": 1
+        },
+        {
+            "id": 44,
+            "ing_id": 14,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 176.5,
+            "intensity": 2
+        },
+        {
+            "id": 45,
+            "ing_id": 15,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 17,
+            "feedback": 2,
+            "temp_sp": 93.5,
+            "intensity": 2
+        },
+        {
+            "id": 46,
+            "ing_id": 15,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 2,
+            "feedback": 1,
+            "temp_sp": 51.5,
+            "intensity": 2
+        },
+        {
+            "id": 47,
+            "ing_id": 15,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 3,
+            "feedback": 1,
+            "temp_sp": 57.0,
+            "intensity": 2
+        },
+        {
+            "id": 48,
+            "ing_id": 15,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 4,
+            "feedback": 1,
+            "temp_sp": 62.8,
+            "intensity": 2
+        },
+        {
+            "id": 49,
+            "ing_id": 15,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 5,
+            "feedback": 1,
+            "temp_sp": 67.0,
+            "intensity": 2
+        },
+        {
+            "id": 50,
+            "ing_id": 16,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "done": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 51.0
+        },
+        {
+            "id": 51,
+            "ing_id": 16,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "done": 3,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 54.0
+        },
+        {
+            "id": 52,
+            "ing_id": 16,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "done": 5,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 64.0
+        },
+        {
+            "id": 53,
+            "ing_id": 17,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 18,
+            "feedback": 0,
+            "temp_sp": 135.0,
+            "intensity": 2
+        },
+        {
+            "id": 54,
+            "ing_id": 17,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 19,
+            "feedback": 0,
+            "temp_sp": 121.0
+        },
+        {
+            "id": 55,
+            "ing_id": 17,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 10,
+            "feedback": 1,
+            "temp_sp": 85.0,
+            "intensity": 2
+        },
+        {
+            "id": 56,
+            "ing_id": 17,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 20,
+            "feedback": 0,
+            "temp_sp": 121.0,
+            "intensity": 2
+        },
+        {
+            "id": 57,
+            "ing_id": 17,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 21,
+            "feedback": 0,
+            "temp_sp": 97.5,
+            "intensity": 2
+        },
+        {
+            "id": 58,
+            "ing_id": 18,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "feedback": 0,
+            "temp_sp": 250.0,
+            "intensity": 2
+        },
+        {
+            "id": 59,
+            "ing_id": 18,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 10,
+            "feedback": 1,
+            "temp_sp": 71.0,
+            "intensity": 1
+        },
+        {
+            "id": 60,
+            "ing_id": 18,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 1,
+            "feedback": 0,
+            "temp_sp": 218.5,
+            "intensity": 2,
+            "done_temp": 40.0
+        },
+        {
+            "id": 61,
+            "ing_id": 18,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 3,
+            "feedback": 0,
+            "temp_sp": 218.5,
+            "intensity": 2,
+            "done_temp": 48.0
+        },
+        {
+            "id": 62,
+            "ing_id": 18,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 5,
+            "feedback": 0,
+            "temp_sp": 218.5,
+            "intensity": 2,
+            "done_temp": 60.0
+        },
+        {
+            "id": 63,
+            "ing_id": 19,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 8,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 64,
+            "ing_id": 19,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 176.5,
+            "intensity": 2
+        },
+        {
+            "id": 65,
+            "ing_id": 20,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 176.7,
+            "intensity": 2
+        },
+        {
+            "id": 66,
+            "ing_id": 21,
+            "cat_id": [
+                5
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 176.5,
+            "intensity": 2
+        },
+        {
+            "id": 67,
+            "ing_id": 21,
+            "cat_id": [
+                5
+            ],
+            "tech_id": 10,
+            "feedback": 1,
+            "temp_sp": 85.0,
+            "intensity": 2
+        },
+        {
+            "id": 68,
+            "ing_id": 21,
+            "cat_id": [
+                5
+            ],
+            "tech_id": 5,
+            "done": 6,
+            "feedback": 1,
+            "temp_sp": 62.0,
+            "intensity": 2
+        },
+        {
+            "id": 69,
+            "ing_id": 21,
+            "cat_id": [
+                5
+            ],
+            "tech_id": 5,
+            "done": 7,
+            "feedback": 1,
+            "temp_sp": 83.0,
+            "intensity": 2
+        },
+        {
+            "id": 70,
+            "ing_id": 21,
+            "cat_id": [
+                5
+            ],
+            "tech_id": 5,
+            "done": 8,
+            "feedback": 1,
+            "temp_sp": 90.0,
+            "intensity": 2
+        },
+        {
+            "id": 71,
+            "ing_id": 22,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 149.0,
+            "intensity": 2
+        },
+        {
+            "id": 72,
+            "ing_id": 22,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 22,
+            "feedback": 0,
+            "temp_sp": 115.5,
+            "intensity": 2
+        },
+        {
+            "id": 73,
+            "ing_id": 23,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 23,
+            "feedback": 1,
+            "temp_sp": 104.5,
+            "intensity": 2
+        },
+        {
+            "id": 74,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 1,
+            "feedback": 1,
+            "temp_sp": 96.0,
+            "intensity": 1
+        },
+        {
+            "id": 75,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2
+        },
+        {
+            "id": 76,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 4,
+            "feedback": 0,
+            "temp_sp": 250.0,
+            "intensity": 2
+        },
+        {
+            "id": 77,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "feedback": 0,
+            "temp_sp": 204.5,
+            "intensity": 2
+        },
+        {
+            "id": 78,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 0,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 40.0
+        },
+        {
+            "id": 79,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 1,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 45.0
+        },
+        {
+            "id": 80,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 49.0
+        },
+        {
+            "id": 81,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 3,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 53.0
+        },
+        {
+            "id": 82,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 4,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 57.0
+        },
+        {
+            "id": 83,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 5,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 60.0
+        },
+        {
+            "id": 84,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 1,
+            "feedback": 1,
+            "temp_sp": 48.0,
+            "intensity": 2
+        },
+        {
+            "id": 85,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 2,
+            "feedback": 1,
+            "temp_sp": 51.0,
+            "intensity": 2
+        },
+        {
+            "id": 86,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 3,
+            "feedback": 1,
+            "temp_sp": 55.0,
+            "intensity": 2
+        },
+        {
+            "id": 87,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 4,
+            "feedback": 1,
+            "temp_sp": 60.0,
+            "intensity": 2
+        },
+        {
+            "id": 88,
+            "ing_id": 24,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 5,
+            "done": 5,
+            "feedback": 1,
+            "temp_sp": 63.0,
+            "intensity": 2
+        },
+        {
+            "id": 89,
+            "ing_id": 25,
+            "cat_id": [
+                2
+            ],
+            "tech_id": 14,
+            "feedback": 1,
+            "temp_sp": 70.0,
+            "intensity": 2
+        },
+        {
+            "id": 90,
+            "ing_id": 25,
+            "cat_id": [
+                2
+            ],
+            "tech_id": 15,
+            "feedback": 1,
+            "temp_sp": 83.5,
+            "intensity": 1
+        },
+        {
+            "id": 91,
+            "ing_id": 26,
+            "cat_id": [
+                7
+            ],
+            "tech_id": 24,
+            "feedback": 0,
+            "temp_sp": 163.0,
+            "intensity": 2
+        },
+        {
+            "id": 92,
+            "ing_id": 27,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 25,
+            "feedback": 0,
+            "temp_sp": 135.0,
+            "intensity": 1
+        },
+        {
+            "id": 93,
+            "ing_id": 27,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 22,
+            "feedback": 0,
+            "temp_sp": 115.5,
+            "intensity": 1
+        },
+        {
+            "id": 94,
+            "ing_id": 27,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 163.0,
+            "intensity": 2
+        },
+        {
+            "id": 95,
+            "ing_id": 28,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 0,
+            "feedback": 0,
+            "temp_sp": 165.5,
+            "intensity": 2
+        },
+        {
+            "id": 96,
+            "ing_id": 29,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 1,
+            "feedback": 0,
+            "temp_sp": 96.0,
+            "intensity": 1
+        },
+        {
+            "id": 97,
+            "ing_id": 29,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2
+        },
+        {
+            "id": 98,
+            "ing_id": 29,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 3,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 60.0
+        },
+        {
+            "id": 99,
+            "ing_id": 29,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 4,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 65.5
+        },
+        {
+            "id": 100,
+            "ing_id": 29,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 0,
+            "done": 5,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2,
+            "done_temp": 70.0
+        },
+        {
+            "id": 101,
+            "ing_id": 29,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 8,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 102,
+            "ing_id": 29,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 4,
+            "feedback": 0,
+            "temp_sp": 250.0,
+            "intensity": 2
+        },
+        {
+            "id": 103,
+            "ing_id": 30,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 176.5,
+            "intensity": 2
+        },
+        {
+            "id": 104,
+            "ing_id": 30,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 8,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 105,
+            "ing_id": 31,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 106,
+            "ing_id": 32,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 3,
+            "feedback": 0,
+            "temp_sp": 218.0,
+            "intensity": 2
+        },
+        {
+            "id": 107,
+            "ing_id": 33,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 10,
+            "feedback": 1,
+            "temp_sp": 85.0,
+            "intensity": 2
+        },
+        {
+            "id": 108,
+            "ing_id": 33,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 109,
+            "ing_id": 34,
+            "cat_id": [
+                1
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 176.5,
+            "intensity": 2
+        },
+        {
+            "id": 110,
+            "ing_id": 35,
+            "cat_id": [
+                7
+            ],
+            "tech_id": 24,
+            "feedback": 0,
+            "temp_sp": 149.0,
+            "intensity": 2
+        },
+        {
+            "id": 111,
+            "ing_id": 35,
+            "cat_id": [
+                7
+            ],
+            "tech_id": 26,
+            "feedback": 0,
+            "temp_sp": 163.0,
+            "intensity": 2
+        },
+        {
+            "id": 112,
+            "ing_id": 36,
+            "cat_id": [
+                8
+            ],
+            "tech_id": 27,
+            "feedback": 1,
+            "temp_sp": 88.0,
+            "intensity": 2
+        },
+        {
+            "id": 113,
+            "ing_id": 37,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 25,
+            "feedback": 1,
+            "temp_sp": 163.0,
+            "intensity": 1
+        },
+        {
+            "id": 114,
+            "ing_id": 37,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 28,
+            "feedback": 1,
+            "temp_sp": 118.0,
+            "intensity": 1
+        },
+        {
+            "id": 115,
+            "ing_id": 37,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 29,
+            "feedback": 1,
+            "temp_sp": 122.0,
+            "intensity": 1
+        },
+        {
+            "id": 116,
+            "ing_id": 37,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 30,
+            "feedback": 1,
+            "temp_sp": 149.0,
+            "intensity": 1
+        },
+        {
+            "id": 117,
+            "ing_id": 37,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 31,
+            "feedback": 1,
+            "temp_sp": 114.0,
+            "intensity": 1
+        },
+        {
+            "id": 118,
+            "ing_id": 37,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 32,
+            "feedback": 1,
+            "temp_sp": 135.0,
+            "intensity": 1
+        },
+        {
+            "id": 119,
+            "ing_id": 37,
+            "cat_id": [
+                3
+            ],
+            "tech_id": 33,
+            "feedback": 1,
+            "temp_sp": 110.0,
+            "intensity": 1
+        },
+        {
+            "id": 120,
+            "ing_id": 38,
+            "cat_id": [
+                4
+            ],
+            "tech_id": 23,
+            "feedback": 1,
+            "temp_sp": 100.0,
+            "intensity": 1
+        },
+        {
+            "id": 121,
+            "ing_id": 39,
+            "cat_id": [
+                4
+            ],
+            "tech_id": 34,
+            "feedback": 1,
+            "temp_sp": 79.5,
+            "intensity": 1
+        },
+        {
+            "id": 122,
+            "ing_id": 40,
+            "cat_id": [
+                4
+            ],
+            "tech_id": 27,
+            "feedback": 1,
+            "temp_sp": 96.0,
+            "intensity": 1
+        },
+        {
+            "id": 123,
+            "ing_id": 41,
+            "cat_id": [
+                4
+            ],
+            "tech_id": 34,
+            "feedback": 1,
+            "temp_sp": 90.5,
+            "intensity": 1
+        },
+        {
+            "id": 124,
+            "ing_id": 42,
+            "cat_id": [
+                4
+            ],
+            "tech_id": 34,
+            "feedback": 1,
+            "temp_sp": 85.0,
+            "intensity": 1
+        },
+        {
+            "id": 125,
+            "ing_id": 43,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 35,
+            "feedback": 0,
+            "temp_sp": 149.0,
+            "intensity": 2
+        },
+        {
+            "id": 126,
+            "ing_id": 43,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 2,
+            "feedback": 0,
+            "temp_sp": 199.0,
+            "intensity": 2
+        },
+        {
+            "id": 127,
+            "ing_id": 43,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 11,
+            "feedback": 0,
+            "temp_sp": 190.5,
+            "intensity": 2
+        },
+        {
+            "id": 128,
+            "ing_id": 43,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 4,
+            "feedback": 0,
+            "temp_sp": 250.0,
+            "intensity": 2
+        },
+        {
+            "id": 129,
+            "ing_id": 43,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 22,
+            "feedback": 0,
+            "temp_sp": 115.5,
+            "intensity": 1
+        },
+        {
+            "id": 130,
+            "ing_id": 44,
+            "cat_id": [
+                6
+            ],
+            "tech_id": 9,
+            "feedback": 2,
+            "temp_sp": 176.7,
+            "intensity": 2
+        }
+    ]
+}

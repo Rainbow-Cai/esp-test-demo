@@ -1,0 +1,259 @@
+{
+    "base_version": [
+        "0",
+        "3"
+    ],
+    "version_path": [
+        "."
+    ],
+    "publish_path": [
+        ".",
+        "builds",
+        "release"
+    ],
+    "tag_prefix": "BSV600-",
+    "jobs": [
+        {
+            "model": "BSV600",
+            "package_type": "OTA_D1",
+            "brand": "Breville",
+            "subdirectories": true,
+            "manifest": true,
+            "files": [
+                {
+                    "file_name": "BSV600_PRODUCTION_dev1.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "comm_mcu",
+                    "type_code": "WIFIAPP",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BSV600",
+            "package_type": "OTA_SE",
+            "brand": "Breville",
+            "subdirectories": true,
+            "manifest": true,
+            "files": [
+                {
+                    "file_name": "BSV600_PRODUCTION_staging.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "comm_mcu",
+                    "type_code": "WIFIAPP",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BSV600",
+            "package_type": "OTA_PE",
+            "brand": "Breville",
+            "subdirectories": true,
+            "manifest": true,
+            "files": [
+                {
+                    "file_name": "BSV600_PRODUCTION_production.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "comm_mcu",
+                    "type_code": "WIFIAPP",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BSV600",
+            "package_type": "BUILD_FILES",
+            "model_type": "",
+            "brand": "Breville",
+            "subdirectories": false,
+            "manifest": false,
+            "zip": false,
+            "files": [
+                {
+                    "file_name": "BSV600_PRODUCTION_dev1.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_d1_bin",
+                    "type_code": "WIFIAPP_D1",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_dev1.elf",
+                    "extension": "elf",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_d1_elf",
+                    "type_code": "WIFIAPP_D1",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_dev1.map",
+                    "extension": "map",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_d1_map",
+                    "type_code": "WIFIAPP_D1",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_production.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_pe_bin",
+                    "type_code": "WIFIAPP_PE",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_production.elf",
+                    "extension": "elf",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_pe_elf",
+                    "type_code": "WIFIAPP_PE",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_production.map",
+                    "extension": "map",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_pe_map",
+                    "type_code": "WIFIAPP_PE",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_staging.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_se_bin",
+                    "type_code": "WIFIAPP_SE",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_staging.elf",
+                    "extension": "elf",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_se_elf",
+                    "type_code": "WIFIAPP_SE",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "BSV600_PRODUCTION_staging.map",
+                    "extension": "map",
+                    "date": "",
+                    "next_version": "",
+                    "type": "wifi_app_se_map",
+                    "type_code": "WIFIAPP_SE",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BES801",
+            "voltage": "120",
+            "package_type": "OTA",
+            "model_type": "120V",
+            "brand": "Sage",
+            "subdirectories": true,
+            "manifest": true,
+            "required": "$INCREMENTAL_AVAILABLE_1",
+            "files": [
+                {
+                    "file_name": "BES801_staging_1.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "good_stuff",
+                    "type_code": "SOMPRO",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                }
+            ]
+        },
+        {
+            "model": "BES802",
+            "voltage": "120",
+            "package_type": "OTA",
+            "model_type": "120V",
+            "brand": "Sage",
+            "subdirectories": true,
+            "manifest": true,
+            "required": "$INCREMENTAL_AVAILABLE_2",
+            "files": [
+                {
+                    "file_name": "sompro_2_staging.bin",
+                    "extension": "bin",
+                    "date": "",
+                    "next_version": "",
+                    "type": "great_stuff",
+                    "type_code": "SOMPRO",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                },
+                {
+                    "file_name": "sompro_2b_staging.hex",
+                    "extension": "hex",
+                    "date": "",
+                    "next_version": "",
+                    "type": "more_stuff",
+                    "type_code": "SOMMOR",
+                    "file_location": [
+                        ".",
+                        "build"
+                    ]
+                }
+            ]
+        }
+    ]
+}

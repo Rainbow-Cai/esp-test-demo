@@ -1,0 +1,1637 @@
+{
+    "ver": 1.0001,
+    "tree": [
+        [
+            0,
+            -1
+        ],
+        [
+            1,
+            0
+        ],
+        [
+            2,
+            0
+        ],
+        [
+            3,
+            0
+        ],
+        [
+            4,
+            0
+        ],
+        [
+            5,
+            0
+        ],
+        [
+            6,
+            0
+        ],
+        [
+            7,
+            0
+        ],
+        [
+            52,
+            3
+        ],
+        [
+            27,
+            3
+        ],
+        [
+            34,
+            3
+        ],
+        [
+            38,
+            3
+        ],
+        [
+            41,
+            3
+        ],
+        [
+            44,
+            3
+        ],
+        [
+            46,
+            3
+        ],
+        [
+            49,
+            4
+        ],
+        [
+            14,
+            4
+        ],
+        [
+            16,
+            4
+        ],
+        [
+            18,
+            4
+        ],
+        [
+            20,
+            4
+        ],
+        [
+            22,
+            4
+        ],
+        [
+            55,
+            6
+        ],
+        [
+            30,
+            6
+        ],
+        [
+            30,
+            6
+        ],
+        [
+            30,
+            6
+        ],
+        [
+            30,
+            6
+        ],
+        [
+            30,
+            6
+        ],
+        [
+            14,
+            9
+        ],
+        [
+            15,
+            9
+        ],
+        [
+            16,
+            10
+        ],
+        [
+            17,
+            10
+        ],
+        [
+            18,
+            11
+        ],
+        [
+            19,
+            11
+        ],
+        [
+            20,
+            12
+        ],
+        [
+            21,
+            12
+        ],
+        [
+            22,
+            13
+        ],
+        [
+            23,
+            13
+        ],
+        [
+            9,
+            14
+        ],
+        [
+            24,
+            14
+        ],
+        [
+            9,
+            15
+        ],
+        [
+            24,
+            15
+        ],
+        [
+            10,
+            16
+        ],
+        [
+            24,
+            16
+        ],
+        [
+            10,
+            17
+        ],
+        [
+            24,
+            17
+        ],
+        [
+            11,
+            18
+        ],
+        [
+            24,
+            18
+        ],
+        [
+            11,
+            19
+        ],
+        [
+            24,
+            19
+        ],
+        [
+            12,
+            20
+        ],
+        [
+            24,
+            20
+        ],
+        [
+            12,
+            21
+        ],
+        [
+            24,
+            21
+        ],
+        [
+            13,
+            22
+        ],
+        [
+            24,
+            22
+        ],
+        [
+            13,
+            23
+        ],
+        [
+            24,
+            23
+        ],
+        [
+            25,
+            24
+        ],
+        [
+            28,
+            26
+        ],
+        [
+            29,
+            26
+        ],
+        [
+            28,
+            27
+        ],
+        [
+            29,
+            27
+        ],
+        [
+            27,
+            28
+        ],
+        [
+            26,
+            28
+        ],
+        [
+            31,
+            30
+        ],
+        [
+            32,
+            30
+        ],
+        [
+            33,
+            32
+        ],
+        [
+            36,
+            34
+        ],
+        [
+            29,
+            34
+        ],
+        [
+            36,
+            35
+        ],
+        [
+            29,
+            35
+        ],
+        [
+            34,
+            36
+        ],
+        [
+            35,
+            36
+        ],
+        [
+            39,
+            37
+        ],
+        [
+            29,
+            37
+        ],
+        [
+            39,
+            38
+        ],
+        [
+            29,
+            38
+        ],
+        [
+            38,
+            39
+        ],
+        [
+            37,
+            39
+        ],
+        [
+            42,
+            40
+        ],
+        [
+            29,
+            40
+        ],
+        [
+            42,
+            41
+        ],
+        [
+            29,
+            41
+        ],
+        [
+            41,
+            42
+        ],
+        [
+            40,
+            42
+        ],
+        [
+            45,
+            43
+        ],
+        [
+            29,
+            43
+        ],
+        [
+            45,
+            44
+        ],
+        [
+            29,
+            44
+        ],
+        [
+            44,
+            45
+        ],
+        [
+            43,
+            45
+        ],
+        [
+            48,
+            46
+        ],
+        [
+            29,
+            46
+        ],
+        [
+            48,
+            47
+        ],
+        [
+            29,
+            47
+        ],
+        [
+            46,
+            48
+        ],
+        [
+            47,
+            48
+        ],
+        [
+            51,
+            49
+        ],
+        [
+            24,
+            49
+        ],
+        [
+            51,
+            50
+        ],
+        [
+            24,
+            50
+        ],
+        [
+            49,
+            51
+        ],
+        [
+            50,
+            51
+        ],
+        [
+            54,
+            52
+        ],
+        [
+            29,
+            52
+        ],
+        [
+            54,
+            53
+        ],
+        [
+            29,
+            53
+        ],
+        [
+            52,
+            54
+        ],
+        [
+            53,
+            54
+        ],
+        [
+            56,
+            55
+        ],
+        [
+            57,
+            55
+        ],
+        [
+            33,
+            57
+        ]
+    ],
+    "data": [
+        {
+            "id": 0,
+            "title": 56,
+            "info": [
+                19,
+                39,
+                38,
+                30,
+                171,
+                55,
+                57
+            ],
+            "icon": [
+                "manual-cooking-bmc",
+                "smartpan",
+                "slow-cooker",
+                "rice-cooker",
+                "sous-vide",
+                "yoghurt-maker",
+                "my-preset"
+            ]
+        },
+        {
+            "id": 1,
+            "title": 19
+        },
+        {
+            "id": 2,
+            "title": 39
+        },
+        {
+            "id": 3,
+            "title": 38,
+            "info": [
+                214,
+                149,
+                151,
+                150,
+                215,
+                27,
+                7
+            ]
+        },
+        {
+            "id": 4,
+            "title": 30,
+            "info": [
+                230,
+                53,
+                3,
+                44,
+                46,
+                32
+            ]
+        },
+        {
+            "id": 5,
+            "title": 171
+        },
+        {
+            "id": 6,
+            "title": 55,
+            "info": [
+                231,
+                26,
+                13,
+                12,
+                42,
+                1
+            ]
+        },
+        {
+            "id": 7,
+            "title": 57
+        },
+        {
+            "id": 8
+        },
+        {
+            "id": 9,
+            "title": 59,
+            "info": [
+                11,
+                25
+            ]
+        },
+        {
+            "id": 10,
+            "title": 59,
+            "info": [
+                11,
+                25
+            ]
+        },
+        {
+            "id": 11,
+            "title": 59,
+            "info": [
+                11,
+                25
+            ]
+        },
+        {
+            "id": 12,
+            "title": 59,
+            "info": [
+                11,
+                25
+            ]
+        },
+        {
+            "id": 13,
+            "title": 59,
+            "info": [
+                11,
+                25
+            ]
+        },
+        {
+            "id": 14,
+            "title": 53,
+            "info": [
+                43,
+                11
+            ],
+            "recipe": [
+                1
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "600",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 15,
+            "title": 53,
+            "info": [
+                43,
+                25
+            ],
+            "recipe": [
+                2
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "1200",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 16,
+            "title": 3,
+            "info": [
+                43,
+                11
+            ],
+            "recipe": [
+                1
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "600",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 17,
+            "title": 3,
+            "info": [
+                43,
+                25
+            ],
+            "recipe": [
+                2
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "1200",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 18,
+            "title": 44,
+            "info": [
+                43,
+                11
+            ],
+            "recipe": [
+                1
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "600",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 19,
+            "title": 44,
+            "info": [
+                43,
+                25
+            ],
+            "recipe": [
+                2
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "1200",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 20,
+            "title": 46,
+            "info": [
+                43,
+                11
+            ],
+            "recipe": [
+                1
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "600",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 21,
+            "title": 46,
+            "info": [
+                43,
+                25
+            ],
+            "recipe": [
+                2
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "1200",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 22,
+            "title": 32,
+            "info": [
+                43,
+                11
+            ],
+            "recipe": [
+                1
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "600",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 23,
+            "title": 32,
+            "info": [
+                43,
+                25
+            ],
+            "recipe": [
+                2
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "1200",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 24,
+            "title": 15,
+            "info": [
+                60
+            ],
+            "icon": [
+                "info-equipment-pot-4-qt"
+            ]
+        },
+        {
+            "id": 25,
+            "title": 15,
+            "info": [
+                71
+            ],
+            "icon": [
+                "rice-white"
+            ]
+        },
+        {
+            "id": 26,
+            "title": 21,
+            "info": [
+                43,
+                179
+            ],
+            "recipe": [
+                5
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "28800",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 28800,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 28800,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "title": 21,
+            "info": [
+                43,
+                182
+            ],
+            "recipe": [
+                6
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "21600",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "title": 188,
+            "info": [
+                182,
+                179
+            ]
+        },
+        {
+            "id": 29,
+            "title": 15,
+            "info": [
+                52
+            ],
+            "icon": [
+                "info-equipment-pot-4-qt"
+            ]
+        },
+        {
+            "id": 30,
+            "title": 194,
+            "info": [
+                195,
+                192
+            ]
+        },
+        {
+            "id": 31,
+            "title": 195,
+            "info": [
+                43
+            ],
+            "recipe": [
+                23
+            ],
+            "icon": [
+                "yogurt_maker_90",
+                "yogurt_maker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "900",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 0,
+                    "def": 83,
+                    "min": 70,
+                    "max": 90
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 900,
+                    "min": 240,
+                    "max": 3600
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "title": 242,
+            "info": [
+                43
+            ],
+            "recipe": [
+                24
+            ],
+            "icon": [
+                "yogurt_maker_90",
+                "yogurt_maker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "14400",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 0,
+                    "def": 43,
+                    "min": 30,
+                    "max": 50
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 14400,
+                    "min": 7200,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "title": 15,
+            "info": [
+                196
+            ]
+        },
+        {
+            "id": 34,
+            "title": 20,
+            "info": [
+                43,
+                179
+            ],
+            "recipe": [
+                7
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "28800",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 28800,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 28800,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "title": 20,
+            "info": [
+                43,
+                182
+            ],
+            "recipe": [
+                8
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "21600",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "title": 188,
+            "info": [
+                179,
+                182
+            ]
+        },
+        {
+            "id": 37,
+            "title": 150,
+            "info": [
+                43,
+                179
+            ],
+            "recipe": [
+                9
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "21600",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "title": 150,
+            "info": [
+                43,
+                182
+            ],
+            "recipe": [
+                10
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "14400",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 14400,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 14400,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "title": 188,
+            "info": [
+                182,
+                179
+            ]
+        },
+        {
+            "id": 40,
+            "title": 5,
+            "info": [
+                43,
+                179
+            ],
+            "recipe": [
+                11
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "21600",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 21600,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "title": 5,
+            "info": [
+                43,
+                182
+            ],
+            "recipe": [
+                12
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "14400",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 14400,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 14400,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "title": 188,
+            "info": [
+                182,
+                179
+            ]
+        },
+        {
+            "id": 43,
+            "title": 27,
+            "info": [
+                43,
+                179
+            ],
+            "recipe": [
+                13
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "7200",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 7200,
+                    "min": 7200,
+                    "max": 21600
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 7200,
+                    "min": 7200,
+                    "max": 21600
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "title": 27,
+            "info": [
+                43,
+                182
+            ],
+            "recipe": [
+                14
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "7200",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 7200,
+                    "min": 7200,
+                    "max": 21600
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 7200,
+                    "min": 7200,
+                    "max": 21600
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "title": 188,
+            "info": [
+                182,
+                179
+            ]
+        },
+        {
+            "id": 46,
+            "title": 7,
+            "info": [
+                43,
+                179
+            ],
+            "recipe": [
+                15
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "28800",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 28800,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 28800,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "title": 7,
+            "info": [
+                43,
+                182
+            ],
+            "recipe": [
+                16
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "14400",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 14400,
+                    "min": 10800,
+                    "max": 43200
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 14400,
+                    "min": 10800,
+                    "max": 43200
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "title": 188,
+            "info": [
+                179,
+                182
+            ]
+        },
+        {
+            "id": 49,
+            "title": 230,
+            "info": [
+                43,
+                11
+            ],
+            "recipe": [
+                3
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "10",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 50,
+            "title": 230,
+            "info": [
+                43,
+                25
+            ],
+            "recipe": [
+                4
+            ],
+            "icon": [
+                "rice-cooker-90",
+                "rice-cooker-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "15",
+                "action": "reset",
+                "usage": 1
+            }
+        },
+        {
+            "id": 51,
+            "title": 59,
+            "info": [
+                11,
+                25
+            ]
+        },
+        {
+            "id": 52,
+            "title": 214,
+            "info": [
+                43,
+                179
+            ],
+            "recipe": [
+                17
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "480",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 480,
+                    "min": 120,
+                    "max": 600
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 480,
+                    "min": 120,
+                    "max": 600
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "title": 214,
+            "info": [
+                43,
+                182
+            ],
+            "recipe": [
+                18
+            ],
+            "icon": [
+                "slow_cooker_90",
+                "slow_cooker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "480",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 480,
+                    "min": 120,
+                    "max": 600
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 480,
+                    "min": 120,
+                    "max": 600
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "title": 188,
+            "info": [
+                179,
+                182
+            ]
+        },
+        {
+            "id": 55,
+            "title": 231,
+            "info": [
+                195,
+                192
+            ]
+        },
+        {
+            "id": 56,
+            "title": 195,
+            "info": [
+                43
+            ],
+            "recipe": [
+                25
+            ],
+            "icon": [
+                "yogurt_maker_90",
+                "yogurt_maker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "5",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 0,
+                    "def": 82,
+                    "min": 70,
+                    "max": 90
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 5,
+                    "min": 4,
+                    "max": 60
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "title": 192,
+            "info": [
+                43
+            ],
+            "recipe": [
+                26
+            ],
+            "icon": [
+                "yogurt_maker_90",
+                "yogurt_maker_60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "12",
+                "action": "reset",
+                "usage": 1
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 0,
+                    "def": 42,
+                    "min": 30,
+                    "max": 50
+                },
+                {
+                    "x": 1,
+                    "used_in": 1,
+                    "def": 12,
+                    "min": 2,
+                    "max": 12
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "title": 171,
+            "info": [
+                43
+            ],
+            "icon": [
+                "sous-vide-90",
+                "sous-vide-60"
+            ],
+            "timer": {
+                "id": 0,
+                "down_from": "0",
+                "action": "reset",
+                "usage": 2
+            },
+            "var": [
+                {
+                    "x": 0,
+                    "used_in": 1,
+                    "def": 0,
+                    "min": 0,
+                    "max": 0
+                },
+                {
+                    "x": 1,
+                    "used_in": 0,
+                    "def": 0,
+                    "min": 0,
+                    "max": 0
+                }
+            ]
+        }
+    ]
+}

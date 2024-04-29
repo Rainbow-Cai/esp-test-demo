@@ -1,0 +1,207 @@
+{
+    "id": 4,
+    "ver": 1.0001,
+    "name": 239,
+    "stg": [
+        {
+            "stp": [
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 239,
+                                "info": [
+                                    6,
+                                    25
+                                ],
+                                "icon": [
+                                    "rice-cooker-90",
+                                    "rice-cooker-60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "15",
+                                "action": "reset",
+                                "usage": 1
+                            }
+                        },
+                        {
+                            "heater": {
+                                "temp_sp": 65,
+                                "intensity": 0,
+                                "feedback": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "heater": 0
+                            }
+                        }
+                    ],
+                    "name": 161
+                },
+                {
+                    "instr": [
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "5",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        }
+                    ],
+                    "name": 162
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 85,
+                                "intensity": 0,
+                                "feedback": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "heater": 0
+                            }
+                        }
+                    ],
+                    "name": 163
+                },
+                {
+                    "instr": [
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "10",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        }
+                    ],
+                    "name": 164
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 101,
+                                "intensity": 1,
+                                "feedback": 0,
+                                "avg_power_level_drop": 2
+                            }
+                        },
+                        {
+                            "wait": {
+                                "heater": 0
+                            }
+                        }
+                    ],
+                    "name": 165
+                },
+                {
+                    "instr": [
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "15",
+                                "action": "start",
+                                "usage": 1
+                            }
+                        },
+                        {
+                            "heater": {
+                                "temp_sp": 101,
+                                "intensity": 0,
+                                "feedback": 0
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 1,
+                                "down_from": "10",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 1
+                            }
+                        }
+                    ],
+                    "name": 166
+                },
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 25,
+                                "intensity": 0,
+                                "feedback": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 0
+                            }
+                        }
+                    ],
+                    "name": 167
+                },
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 239,
+                                "info": [
+                                    16
+                                ],
+                                "icon": [
+                                    "keepwarm-90",
+                                    "keepwarm-60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "up_from": 0,
+                                "action": "start",
+                                "usage": 4
+                            }
+                        },
+                        {
+                            "heater": {
+                                "temp_sp": 70,
+                                "intensity": 0,
+                                "feedback": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "user": 2
+                            }
+                        }
+                    ],
+                    "name": 16
+                }
+            ]
+        }
+    ]
+}

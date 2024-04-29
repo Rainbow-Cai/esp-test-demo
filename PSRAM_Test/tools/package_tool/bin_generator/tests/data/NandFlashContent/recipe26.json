@@ -1,0 +1,71 @@
+{
+    "id": 26,
+    "ver": 1.0001,
+    "name": 237,
+    "stg": [
+        {
+            "stp": [
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 192,
+                                "info": [
+                                    213
+                                ],
+                                "icon": [
+                                    "yogurt_maker_90",
+                                    "yogurt_maker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "x1",
+                                "action": "start",
+                                "usage": 2
+                            }
+                        },
+                        {
+                            "heater": {
+                                "temp_sp": "x0",
+                                "intensity": 0,
+                                "feedback": 1
+                            }
+                        },
+                        {
+                            "wait": {
+                                "heater": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 0
+                            }
+                        },
+                        {
+                            "ui": {
+                                "title": 192,
+                                "info": [
+                                    212
+                                ],
+                                "icon": [
+                                    "yogurt_maker_90",
+                                    "yogurt_maker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "wait": {
+                                "user": 2
+                            }
+                        }
+                    ],
+                    "name": 177
+                }
+            ],
+            "name": 193
+        }
+    ]
+}

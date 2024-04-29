@@ -1,0 +1,38 @@
+{
+    "id": 20,
+    "ver": 1.0001,
+    "name": 234,
+    "stg": [
+        {
+            "stp": [
+                {
+                    "instr": [
+                        {
+                            "ui": {
+                                "title": 187,
+                                "info": [
+                                    6,
+                                    179
+                                ],
+                                "icon": [
+                                    "slow_cooker_90",
+                                    "slow_cooker_60"
+                                ]
+                            }
+                        },
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "x1",
+                                "action": "start",
+                                "usage": 1
+                            }
+                        }
+                    ],
+                    "name": 172
+                }
+            ],
+            "name": 235
+        }
+    ]
+}

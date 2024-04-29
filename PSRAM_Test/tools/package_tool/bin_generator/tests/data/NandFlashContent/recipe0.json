@@ -1,0 +1,44 @@
+{
+    "id": 0,
+    "ver": 1.0001,
+    "name": 148,
+    "stg": [
+        {
+            "stp": [
+                {
+                    "instr": [
+                        {
+                            "heater": {
+                                "temp_sp": 65,
+                                "intensity": 1,
+                                "feedback": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "heater": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "instr": [
+                        {
+                            "timer": {
+                                "id": 0,
+                                "down_from": "60",
+                                "action": "start",
+                                "usage": 0
+                            }
+                        },
+                        {
+                            "wait": {
+                                "timer": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
