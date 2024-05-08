@@ -1,0 +1,51 @@
+dependencies:
+  espressif/cmake_utilities:
+    component_hash: 6983933aa165d5c1bd8ff3716f8873b4dd8577020d9176d22d8568b139ff8753
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.1.0
+  espressif/jsmn:
+    component_hash: d80350c41bbaa827c98a25b6072df00884e72f54885996fab4a4f0aebce6b6c3
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.1.0
+  espressif/json_parser:
+    component_hash: d74b81729ad06ec11ff5eb5b1b0d7df1d00e6027fc11471f4b139c70dcf1b1e4
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 1.0.3
+  espressif/led_indicator:
+    component_hash: daa844acf7886b78fa4ea25c9dd6a4fb3a83f793a307187026be1c237fba632a
+    source:
+      service_url: https://api.components.espressif.com/
+      type: service
+    version: 0.3.0
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.2
+  iot_usbh:
+    component_hash: null
+    source:
+      path: E:\esp\Espressif\frameworks\esp-iot-solution\components\usb\iot_usbh
+      type: local
+    version: 0.2.1
+  iot_usbh_cdc:
+    component_hash: null
+    source:
+      path: E:\esp\Espressif\frameworks\esp-iot-solution\components\usb\iot_usbh_cdc
+      type: local
+    version: 0.2.2
+  iot_usbh_modem:
+    component_hash: null
+    source:
+      path: E:\esp\Espressif\frameworks\esp-iot-solution\components\usb\iot_usbh_modem
+      type: local
+    version: 0.2.1
+manifest_hash: 8b324c62f54f078fb686ec3ae725c2445533f2f02e98bb5105aa7682b0c3fc0e
+target: esp32s3
+version: 1.0.0
